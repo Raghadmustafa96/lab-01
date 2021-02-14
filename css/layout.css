@@ -1,0 +1,131 @@
+@media screen and (max-width: 768px) { 
+    * {
+        box-sizing: border-box;
+      }
+    
+      body{
+        width: 484px;
+        height: 75px;
+    }
+        .div_a{
+            width: 480px;
+            height: 150px;
+        }
+        
+        .div_b{
+            width: 480px;
+            height: 125px;
+        }
+        
+        .div_c{
+            width: 480px;
+            height: 125px;
+        }
+        
+        .div_d{
+            width: 480px;
+            height: 200px;
+        }
+        
+        .div_e{
+            width: 240px;
+            height: 250px;
+            display: inline-block;
+        }
+        
+        .div_f{
+            width: 240px;
+            height: 250px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_g{
+            width: 240px;
+            height: 250px;
+            display: inline-block;
+        }
+        
+        .div_h{
+            width: 240px;
+            height: 250px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_i{
+            width: 480px;
+            height: 80px;
+        }
+      }
+    
+    
+      @media screen and (min-width: 769px){
+        * {
+            box-sizing: border-box;
+          }
+        
+        body{
+            width: 980px;
+            height: 768px;
+        }
+        
+        .div_a{
+            width: 960px;
+            height: 100px;
+        }
+        
+        .div_b{
+            width: 200px;
+            height: 600px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_c{
+            width: 380px;
+            height: 200px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_d{
+            width: 380px;
+            height: 200px;
+            display: inline-block;
+        }
+        
+        .div_e{
+            width: 190px;
+            height: 250px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_f{
+            width: 190px;
+            height: 250px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_g{
+            width: 190px;
+            height: 250px;
+            display: inline-block;
+            float: left;
+        }
+        
+        .div_h{
+            width: 190px;
+            height: 250px;
+            display: inline-block;
+        }
+        
+        .div_i{
+            width: 760px;
+            height: 150px;
+            float: left;
+        }
+        }
+        
