@@ -1,4 +1,4 @@
-html {
-    display: table;
-    margin: auto;
-}
+* {
+    box-sizing: border-box;
+  }
+  
